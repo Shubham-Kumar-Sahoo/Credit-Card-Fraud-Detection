@@ -11,6 +11,7 @@ To install the required python libraries, execute the following command in the t
 1. Open app.py and execute it. Now the backend server is live
 2. Now go to frontend and open the terminal
 3. Run the following commands in the terminal :-
+   
    i. yarn
    ii. yarn run dev
 4. Now open localhost server
