@@ -14,4 +14,4 @@ To install the required python libraries, execute the following command in the t
    i. yarn
    ii. yarn run dev
 4. Now open localhost server
-5. Now enter the transactions details in csv format and check the results
+5. Then enter the transaction details in csv format and check whether the transaction is fraud or not
