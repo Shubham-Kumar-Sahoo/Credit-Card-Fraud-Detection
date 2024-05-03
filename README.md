@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection
-This project aims to develop a Deep Neural Network-based credit card fraud detection system to minimize financial losses and enhance security in real-time transactions.
+In this project, we're building a deep neural network-driven credit card fraud detection system to swiftly identify and prevent fraudulent transactions, enhancing security and minimizing financial losses. Through meticulous data preprocessing, analysis, and model training, our aim is to create a robust solution that bolsters transaction security while reducing false positives.
