@@ -13,6 +13,7 @@ To install the required python libraries, execute the following command in the t
 3. Run the following commands in the terminal :-
    
    i. yarn
+   
    ii. yarn run dev
-4. Now open localhost server
-5. Then enter the transaction details in csv format and check whether the transaction is fraud or not
+5. Now open localhost server
+6. Then enter the transaction details in csv format and check whether the transaction is fraud or not
